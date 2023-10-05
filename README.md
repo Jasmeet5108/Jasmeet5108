@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jasmeet5108
+- 👋 Hi, I’m Jasmeet Singh
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
