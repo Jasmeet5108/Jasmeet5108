@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jasmeet Singh
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - jasmeet5108k@gmail.com
 
 <!---
 Jasmeet5108/Jasmeet5108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
