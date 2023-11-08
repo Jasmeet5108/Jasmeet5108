@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jasmeet Singh
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJs
+- 💙 Currently learning ReactJs
 - 📫 How to reach me - jasmeet5108k@gmail.com
 
 <!---
