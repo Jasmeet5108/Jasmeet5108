@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jasmeet Singh
 - 👀 A Passionate Web Developer
-- ⚛️ Currently learning ReactJs
+- 💻 Currently learning Backend Development
 - 📫 Send an Email -> jasmeet5108k@gmail.com
 - 🧑‍💻 Website Link -> https://jasmeet-singh.vercel.app
 
