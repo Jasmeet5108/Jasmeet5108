@@ -1,6 +1,6 @@
 # **Hi, I'm Jasmeet Singh** &nbsp;[<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">](https://jasmeet-singh.vercel.app)
 
-A Passionate MERN developer crafting seamless web experiences with MongoDB, Express, React, and Node.js. Let's <a href="https://jasmeet-singh.vercel.app">connect</a>.
+A MERN developer passionate aboutcrafting seamless web experiences. Let's <a href="https://jasmeet-singh.vercel.app">connect</a>.
 
 <br>
 <div id="header" align="center">
@@ -13,7 +13,7 @@ A Passionate MERN developer crafting seamless web experiences with MongoDB, Expr
   <a href="https://www.linkedin.com/in/jasmeetsingh752/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a style="margin-left: 10px;" href="https://www.x.com/JasmeetSingh752" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+  <a style="margin-left: 15px;" href="https://www.x.com/JasmeetSingh752" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </div>
 <br>
 <br>
