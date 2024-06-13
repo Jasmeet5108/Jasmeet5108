@@ -1,6 +1,6 @@
 # **Hi, I'm Jasmeet Singh** &nbsp;[<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">](https://jasmeet-singh.vercel.app)
 
-A MERN developer passionate aboutcrafting seamless web experiences. Let's <a href="https://jasmeet-singh.vercel.app">connect</a>.
+A MERN developer passionate about crafting seamless web experiences. Let's <a href="https://jasmeet-singh.vercel.app">connect</a>.
 
 <br>
 <div id="header" align="center">
@@ -26,7 +26,7 @@ A MERN developer passionate aboutcrafting seamless web experiences. Let's <a hre
 
 ### About Me :
 - 👋 Hi, I’m Jasmeet Singh
-- 🌍 A Passionate Web Developer based in India
+- 🇮🇳 A Passionate Web Developer based in India
 - 💻 Teck Stack :- NextJs, TypeScript, TailwindCSS, MongoDB
 - 📫 Connect with me via Email ->  [jasmeet5108k@gmail.com](jasmeet5108k@gmail.com)
 - 🧑‍💻 Checkout my Website ->  [jasmeet-singh.vercel.app](https://jasmeet-singh.vercel.app)
