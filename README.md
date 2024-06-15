@@ -10,19 +10,15 @@ A MERN developer passionate about crafting seamless web experiences. Let's <a hr
 ### Socials
 
 <div style="display: flex; justify-content: center; gap: 20px" id="badges" align="center">
-<div>
   <a href="https://www.linkedin.com/in/jasmeetsingh752/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<div>
   <a href="https://www.x.com/JasmeetSingh752" target="_blank" rel="noreferrer">
   <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> 
   </a>
-</div>
 </div>
 <br>
 <br>
