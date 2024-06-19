@@ -73,7 +73,7 @@ A MERN developer passionate about crafting seamless web experiences. Let's <a hr
 <br>
 <!-- <br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeet5108&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeet5108&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- -
 Jasmeet5108/Jasmeet5108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
